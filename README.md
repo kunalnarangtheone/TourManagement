@@ -1,4 +1,4 @@
-#This repo has been forked from: https://github.ncsu.edu/attiffan/CSC517_HW02
+This repo has been forked from: https://github.ncsu.edu/attiffan/CSC517_HW02
 
 
 Tour Management System:
